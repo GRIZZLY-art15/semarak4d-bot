@@ -14,7 +14,7 @@ import threading
 # ========== KONFIGURASI ==========
 TOKEN = "8573642989:AAHWEK2XTjlpBQcY0ggvJP2EpHqxoPdg6EU"
 ADMIN_ID = 7176181382
-ADMIN_PASSWORD_HASH = hashlib.sha256("Kajian225511".encode()).hexdigest()  # Password: Kajian225511
+ADMIN_PASSWORD_HASH = hashlib.sha256("Semarak554433".encode()).hexdigest()  # Password: Semarak554433
 # =================================
 
 app = Flask(__name__)
